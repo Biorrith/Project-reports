@@ -1,2 +1,2 @@
 # Project-reports
-This repository contains the reports of some of the notable projects I did.
+This repository is a collection of reports for the notable projects I did that have no provided code.
